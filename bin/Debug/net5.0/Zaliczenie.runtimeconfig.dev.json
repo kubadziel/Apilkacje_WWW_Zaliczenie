@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/dzielowy/.dotnet/store/|arch|/|tfm|",
+      "/Users/dzielowy/.nuget/packages"
+    ]
+  }
+}
